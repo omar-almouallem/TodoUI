@@ -2,7 +2,7 @@
 
 User interface using React
 for todo api
-[Link text](https://github.com/omar-almouallem/TodoApi)
+[todo-api](https://github.com/omar-almouallem/TodoApi)
 
 # Environment Variables
 
